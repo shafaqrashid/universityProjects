@@ -1,0 +1,6 @@
+c:\users\mr\documents\visual studio 2015\Projects\square free number\square free number\bin\Debug\square free number.exe.config
+c:\users\mr\documents\visual studio 2015\Projects\square free number\square free number\bin\Debug\square free number.exe
+c:\users\mr\documents\visual studio 2015\Projects\square free number\square free number\bin\Debug\square free number.pdb
+c:\users\mr\documents\visual studio 2015\Projects\square free number\square free number\obj\Debug\square free number.csprojResolveAssemblyReference.cache
+c:\users\mr\documents\visual studio 2015\Projects\square free number\square free number\obj\Debug\square free number.exe
+c:\users\mr\documents\visual studio 2015\Projects\square free number\square free number\obj\Debug\square free number.pdb
